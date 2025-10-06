@@ -23,8 +23,8 @@ export const metadata: Metadata = {
     locale: "pt_BR",
     url: "https://forters.com.br",
     siteName: "Forters",
-    title: "Forters - Proteção Financeira Global para Empresas Latino-Americanas",
-    description: "Soluções especializadas em linhas financeiras com presencia internacional. Corretora oficialmente licenciada pela SUSEP.",
+    title: "Bangladesh's investment opportunities and foreign direct investment.",
+    description: "Transparent investor services of different organizations all in one place",
     images: [
       {
         url: "/opengraph-image.png",
