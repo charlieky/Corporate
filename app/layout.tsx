@@ -10,7 +10,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://forters.com.br'),
+  metadataBase: new URL('https://corporate-blush.vercel.app/en'),
   title: {
     default: "LOGO",
     template: "%s | Forters"
@@ -21,7 +21,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "pt_BR",
-    url: "https://forters.com.br",
+    url: "",
     siteName: "Forters",
     title: "Bangladesh's investment opportunities and foreign direct investment.",
     description: "Transparent investor services of different organizations all in one place",
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
         url: "/forters_logo.png",
         width: 1200,
         height: 630,
-        alt: "Forters - Proteção Financeira Global"
+        alt: ""
       }
     ]
   },
@@ -57,8 +57,8 @@ const jsonLd = {
   '@context': 'https://schema.org',
   '@type': 'Organization',
   name: 'Forters',
-  url: 'https://forters.com.br',
-  logo: 'https://res.cloudinary.com/dtvdfo5yq/image/upload/v1759746510/forters_logo_qp9avs.png',
+  url: '',
+  logo: ["https://res.cloudinary.com/dtvdfo5yq/image/upload/v1759746510/forters_logo_qp9avs.png"],
   description: 'Transparent investor services of different organizations all in one place',
   contactPoint: {
     '@type': 'ContactPoint',
