@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     default: "LOGO",
     template: "%s | Forters"
   },
-  description: "Soluções especializadas em linhas financeiras com presencia internacional. Corretora oficialmente licenciada pela SUSEP.",
+  description: "Transparent investor services of different organizations all in one place",
   keywords: ["seguros empresariais", "D&O", "E&O", "cyber security", "seguro garantia", "linhas financeiras", "corretora de seguros"],
   authors: [{ name: "Forters" }],
   openGraph: {
@@ -64,7 +64,7 @@ const jsonLd = {
     '@type': 'ContactPoint',
     telephone: '+55 11 91235-1414',
     contactType: 'Customer Service',
-    email: 'contato@forters.com.br',
+    email: 'charliekyle795@gmail.com',
     availableLanguage: ['Portuguese', 'English', 'Spanish']
   },
   areaServed: [

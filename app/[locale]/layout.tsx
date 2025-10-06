@@ -9,15 +9,15 @@ const localeNames: Record<string, string> = {
 };
 
 const localeTitles: Record<string, string> = {
-  pt: "Forters - Proteção Financeira Global para Empresas Latino-Americanas",
-  en: "Forters - Global Financial Protection for Latin American Companies",
-  es: "Forters - Protección Financiera Global para Empresas Latinoamericanas"
+  pt: "孟加拉国的投资机会和外国直接投资",
+  en: "Bangladesh's investment opportunities and foreign direct investment.",
+  es: "বাংলাদেশের বিনিয়োগের সুযোগ এবং প্রত্যক্ষ বিদেশি বিনিয়োগ।"
 };
 
 const localeDescriptions: Record<string, string> = {
-  pt: "Soluções especializadas em linhas financeiras com presencia internacional. Corretora oficialmente licenciada pela SUSEP.",
-  en: "Specialized solutions in financial lines with international presence. Officially licensed insurance broker.",
-  es: "Soluciones especializadas en líneas financieras con presencia internacional. Corredor de seguros oficialmente licenciado."
+  pt: "不同组织的透明投资者服务一站式提供",
+  en: "Transparent investor services of different organizations all in one place",
+  es: "বিভিন্ন সংস্থার স্বচ্ছ বিনিয়োগকারী সেবা একই স্থানে।"
 };
 
 export async function generateMetadata({
