@@ -27,7 +27,7 @@ export const metadata: Metadata = {
     description: "Transparent investor services of different organizations all in one place",
     images: [
       {
-        url: "/opengraph-image.png",
+        url: "/forters_logo.png",
         width: 1200,
         height: 630,
         alt: "Forters - Proteção Financeira Global"
@@ -36,9 +36,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Forters - Proteção Financeira Global para Empresas Latino-Americanas",
-    description: "Soluções especializadas em linhas financeiras com presencia internacional. Corretora oficialmente licenciada pela SUSEP.",
-    images: ["/opengraph-image.png"],
+    title: "Bangladesh's investment opportunities and foreign direct investment.",
+    description: "Transparent investor services of different organizations all in one place",
+    images: ["/forters_logo.png"],
   },
   robots: {
     index: true,
@@ -58,8 +58,8 @@ const jsonLd = {
   '@type': 'Organization',
   name: 'Forters',
   url: 'https://forters.com.br',
-  logo: 'https://forters.com.br/opengraph-image.png',
-  description: 'Soluções especializadas em linhas financeiras com presencia internacional. Corretora oficialmente licenciada pela SUSEP.',
+  logo: 'https://res.cloudinary.com/dtvdfo5yq/image/upload/v1759746510/forters_logo_qp9avs.png',
+  description: 'Transparent investor services of different organizations all in one place',
   contactPoint: {
     '@type': 'ContactPoint',
     telephone: '+55 11 91235-1414',
