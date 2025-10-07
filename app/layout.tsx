@@ -20,9 +20,9 @@ export const metadata: Metadata = {
   authors: [{ name: "Forters" }],
   openGraph: {
     type: "website",
-    locale: "pt_BR",
+    locale: "es_ES",
     url: "",
-    siteName: "Forters",
+    siteName: "Corporate",
     title: "Bangladesh's investment opportunities and foreign direct investment.",
     description: "Transparent investor services of different organizations all in one place",
     images: []

@@ -37,7 +37,7 @@ export async function generateMetadata({
       },
     },
     openGraph: {
-      locale: localeNames[locale] || 'pt_BR',
+      locale: localeNames[locale] || 'es_ES',
       alternateLocale: ['pt_BR', 'en_US', 'es_ES'].filter(l => l !== localeNames[locale]),
       title: localeTitles[locale],
       description: localeDescriptions[locale],
