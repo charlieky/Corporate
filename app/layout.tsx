@@ -25,29 +25,23 @@ export const metadata: Metadata = {
     siteName: "Forters",
     title: "Bangladesh's investment opportunities and foreign direct investment.",
     description: "Transparent investor services of different organizations all in one place",
-    images: [
-      {
-        url: "/forters_logo.png",
-        width: 1200,
-        height: 630,
-        alt: ""
-      }
-    ]
+    images: []
   },
   twitter: {
-    card: "summary_large_image",
+    card: "summary",
     title: "Bangladesh's investment opportunities and foreign direct investment.",
     description: "Transparent investor services of different organizations all in one place",
-    images: ["/forters_logo.png"],
+    images: [],
   },
   robots: {
     index: true,
     follow: true,
+    noimageindex: true, // Added image index prevention
     googleBot: {
       index: true,
       follow: true,
       'max-video-preview': -1,
-      'max-image-preview': 'large',
+      'max-image-preview': 'none',
       'max-snippet': -1,
     },
   },
@@ -58,7 +52,7 @@ const jsonLd = {
   '@type': 'Organization',
   name: 'Forters',
   url: '',
-  logo: ["https://res.cloudinary.com/dtvdfo5yq/image/upload/v1759746510/forters_logo_qp9avs.png"],
+  logo: [],
   description: 'Transparent investor services of different organizations all in one place',
   contactPoint: {
     '@type': 'ContactPoint',
@@ -109,3 +103,6 @@ export default function RootLayout({
     </html>
   );
 }
+
+
+
