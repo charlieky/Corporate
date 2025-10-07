@@ -1,0 +1,141 @@
+{
+  "nav": {
+    "produtos": "产品",
+    "servicos": "服务",
+    "presencaGlobal": "全球布局",
+    "clientes": "客户",
+    "seguradoras": "企业客户",
+    "contato": "联系我们",
+    "faleConosco": "在线咨询"
+  },
+  "hero": {
+    "title": "全球企业商业合作伙伴",
+    "subtitle": "通过本土化战略与国际风险管理专长，助力企业在孟加拉实现业务增长",
+    "ctaPrimary": "获取报价",
+    "ctaSecondary": "我们的服务",
+    "stats": {
+      "companies": "管理承保金额",
+      "companiesValue": "5亿美元",
+      "countries": "覆盖国家",
+      "countriesValue": "+5",
+      "insurers": "合作保险公司",
+      "insurersValue": "+40"
+    },
+    "badges": {
+      "business": "商业风险",
+      "coverage": "全球覆盖",
+      "consulting": "专业咨询"
+    }
+  },
+  "features": {
+    "sectionTitle": "核心服务",
+    "items": {
+      "financial": {
+        "title": "金融业务专家",
+        "description": "保护企业金融资产的专项解决方案"
+      },
+      "international": {
+        "title": "国际网络",
+        "description": "为拓展中的企业提供全球化保护"
+      },
+      "technology": {
+        "title": "先进技术",
+        "description": "数字化平台助您轻松管理业务"
+      },
+      "team": {
+        "title": "专属团队",
+        "description": "经验丰富的专业团队满足您的需求"
+      }
+    }
+  },
+  "products": {
+    "sectionTitle": "产品体系",
+    "items": {
+      "do": {
+        "title": "董监事责任险",
+        "subtitle": "董事及高级职员责任保险",
+        "description": "董监事及高级管理人员责任保险",
+        "details": "为管理层决策相关的索赔提供保护"
+      },
+      "eo": {
+        "title": "职业责任险",
+        "subtitle": "错误与疏忽保险",
+        "description": "专业责任保险",
+        "details": "承保专业人员因执业过程中的错误、疏忽或过失导致的索赔"
+      },
+      "rcg": {
+        "title": "综合责任险",
+        "subtitle": "商业综合责任保险",
+        "description": "一般责任保险",
+        "details": "承保企业运营中对第三方造成的人身、财产及精神损害"
+      },
+      "cyber": {
+        "title": "网络安全险",
+        "subtitle": "网络风险保险",
+        "description": "网络风险防护",
+        "details": "覆盖网络攻击、数据泄露、勒索软件等数字威胁"
+      },
+      "garantia": {
+        "title": "履约保证险",
+        "subtitle": "担保债券保险",
+        "description": "合同履约保证保险",
+        "details": "为公共和私营机构的投标、合同及履约义务提供担保"
+      },
+      "outros": {
+        "title": "其他险种",
+        "subtitle": "定制化解决方案",
+        "description": "其他企业保险",
+        "details": "根据企业特定需求提供定制化保险解决方案"
+      }
+    }
+  },
+  "presencaGlobal": {
+    "sectionTitle": "全球布局",
+    "title": "全球服务网络",
+    "subtitle": "我们在孟加拉重点区域的运营基础设施，结合广泛的合作企业网络，为客户提供量身定制的业务增长解决方案",
+    "countries": {
+      "brasil": "巴西",
+      "mexico": "墨西哥",
+      "colombia": "哥伦比亚",
+      "usa": "美国",
+      "argentina": "阿根廷",
+      "outros": "其他地区"
+    }
+  },
+  "clients": {
+    "sectionTitle": "合作客户",
+    "title": "信任我们的企业",
+    "subtitle": "作为行业颠覆者的战略合作伙伴，我们部署可扩展的增长模型，将特定领域的挑战转化为竞争优势",
+    "andManyOthers": "等众多知名企业"
+  },
+  "seguradoras": {
+    "sectionTitle": "企业服务",
+    "title": "构建企业可持续发展的基石",
+    "subtitle": "通过与行业领导者的战略合作，我们提供定制化企业解决方案应对特定风险场景"
+  },
+  "contact": {
+    "sectionTitle": "联系我们",
+    "title": "获取专业咨询",
+    "subtitle": "填写表单，我们的团队将尽快与您联系",
+    "button": "立即咨询",
+    "direct": "或直接联系我们：",
+    "email": "baji72@gmail.com",
+    "phone": "+55 15 87910-9422"
+  },
+  "footer": {
+    "description": "Baji72在全球专业知识与本地执行的交汇处战略性地定位自己。以下是对他们市场领导地位的扩展视角",
+    "links": {
+      "produtos": "产品中心",
+      "servicos": "服务体系",
+      "presencaGlobal": "全球网络",
+      "parceiros": "合作伙伴",
+      "contato": "联系我们"
+    },
+    "copyright": "© 2025 Baji72 版权所有"
+  },
+  "cookies": {
+    "message": "本网站使用cookies以提升浏览体验。继续访问即表示您同意我们的cookie政策",
+    "accept": "接受",
+    "decline": "拒绝"
+  }
+}
